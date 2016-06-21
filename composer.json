@@ -26,5 +26,8 @@
             "Droid\\Plugin\\Cron\\": "src/"
         }
     },
+    "bin": [
+        "bin/droid-cron"
+    ],
     "license": "MIT"
 }
