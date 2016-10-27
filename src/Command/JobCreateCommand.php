@@ -60,7 +60,7 @@ class JobCreateCommand extends Command
                 'mail',
                 null,
                 InputOption::VALUE_REQUIRED,
-                'Comma seperated list of user names or email addresses to which to email the job output.'
+                'Comma separated list of user names or email addresses to which to email the job output.'
             )
             ->addOption(
                 'no-mail',
